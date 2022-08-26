@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    font-family: "Arial Rounded MT Bold", serif;
+    font-size: 28px;
+    color: blue;
+}
